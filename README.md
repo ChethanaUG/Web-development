@@ -1,4 +1,4 @@
-#Practice Projects
+# Practice Projects
 
 This repository contains my HTML, CSS, and basic web development practice projects.
 
