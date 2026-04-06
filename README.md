@@ -1,6 +1,6 @@
-# TAP Academy Practice Projects
+#Practice Projects
 
-This repository contains my HTML, CSS, and basic web development practice projects completed during my training at TAP Academy.
+This repository contains my HTML, CSS, and basic web development practice projects.
 
 ## Projects Included
 
